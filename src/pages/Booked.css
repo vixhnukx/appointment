@@ -1,0 +1,43 @@
+.book_main{
+    height: 343px;
+    width: 543px;
+    margin-top: 113px;
+    margin-left: 507px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+.book_head h4{
+    color: rgba(23, 68, 158, 1);
+    margin-top: 5px;
+    padding-top: 28px;
+}
+.book_text{
+    padding: 25px;
+    margin-left: 7%;
+   
+   
+}
+.book_btn{
+    margin-left: 43%;
+    margin-top: 50px;
+    background-color: rgba(23, 68, 158, 1);
+    color: white;
+    border-radius: 4px;
+    height: 43px;
+    width: 85px;
+    
+    border: none;
+}
+.book_btn:hover{
+  background-color: rgb(18, 49, 112);
+  color: #fff;
+}
+.book_time{
+    margin-left: 54%;
+    margin-top: -60px;
+}
+.book_para{
+    margin-left: 5%;
+}
+.book_text p{
+    margin-top: 2px;
+}

@@ -1,0 +1,32 @@
+.otp{
+    background-color:rgba(23, 68, 158, 1) ;
+    height: 100%;
+}
+.react{
+    margin-left: 0%;
+}
+.sms{
+    color: black;
+    
+}
+.phoneno{
+    margin-left: 40%;
+}
+.smsbtn{
+    margin-left: 45%;
+    border-radius: 10px;
+    border: none;
+    margin-top: 9px;
+   margin-bottom: 28%;
+}
+.textvarify{
+    margin-left: 44%;
+}
+.ok{
+    margin-left: 10px;
+    background: white;
+    color: black;
+}
+.vi{
+    color: black;
+}

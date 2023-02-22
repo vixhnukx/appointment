@@ -1,0 +1,47 @@
+.about_head{
+    margin-left: 46%;
+    margin-top: 3%;
+    color:rgba(23, 68, 158, 1) ;
+}
+.about_para{
+    margin-left: 34%;
+    margin-top: 1%;
+   
+}
+.about{
+    width: 89%;
+box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+margin-left: 6%;
+}
+.doc{
+    height: 
+    366px;
+}
+.story_para{
+    padding: 21%;
+    margin-top: -20%;
+    margin-left: 39%;
+}
+.story_head{
+    margin-top: -24%;
+    margin-left: 56%;
+}
+.story{
+    height: 0%;
+}
+.doctor{
+  height: 19%;
+  margin-top: 8%;
+}
+.img{
+    margin-top: -17%;
+}
+.doc{
+    margin-left: 13%;
+    margin-top: -2%;
+}
+
+
+.about_us{
+    margin-top: 0%;
+}
